@@ -1,0 +1,25 @@
+body {
+    color: aqua;
+    background: pink;
+
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+.gestures{
+    width: 450px;
+    
+}
+#result_object_name,
+#result_object_accuracy {
+    color: darkorchid;
+}
